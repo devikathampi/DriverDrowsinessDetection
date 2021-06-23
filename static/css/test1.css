@@ -1,0 +1,133 @@
+.u-section-1 {
+  background-image: url("images/why-kei-8e2gal_GIE8-unsplash.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1060px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 630px;
+  min-height: 489px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  background-image: none;
+  margin: 110px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 40px 67px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: none;
+  font-size: 4.5rem;
+  font-family: "Archivo Black";
+  margin: 0 20px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 20px 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 248px;
+  margin: 20px 20px 0 44px;
+}
+
+.u-section-1 .u-form-group-1 {
+  width: 100%;
+}
+
+.u-section-1 .u-form-group-2 {
+  width: 100%;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 10px 31px 10px 29px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    width: 501px;
+    margin-top: 208px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-weight: normal;
+    font-size: 3.625rem;
+    width: auto;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 486px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 424px;
+    margin-top: 188px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.4375rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    margin-top: 443px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-right: 30px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 371px;
+    width: 364px;
+    margin-right: 50px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: 314px;
+    margin-top: 417px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.8125rem;
+    margin-right: 6px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
